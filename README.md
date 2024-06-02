@@ -1,29 +1,22 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Vitor! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science at Descomplica.
+<h1>Hi There! 👋</h1>
 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vitorgabrielzanini/)](https://www.linkedin.com/in/vitorgabrielzanini/)
+[![Gmail Badge](https://img.shields.io/badge/-vitorzaninilubschinski@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorzaninilubschinski@gmail.com)](mailto:vitorzaninilubschinski@gmail.com)
 
 
+## My name is Vitor
+(Python | SQL) 🚀
+- 👩‍💻 IT assistant at FEMA
+- 🎓 Data Science Student at Descomplica
+- 💡 Love a good challenge
 
-<!-- Links -->
+<div align="left">
+  
+[![vitorlubschinski top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlubschinski&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielzanini/)
-
-<!-- GithubStats -->
-![vitorlubschinski GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorlubschinski&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-
-
-<!-- GIF -->
 
 
 ## 🔥 Skills
