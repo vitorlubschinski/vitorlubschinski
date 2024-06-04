@@ -6,7 +6,7 @@
 
 
 ## My name is Vitor
-(Python | SQL) 🚀
+JS | FLUTTER | SQL 🚀
 - 👩‍💻 IT assistant at FEMA
 - 🎓 Data Science Student at Descomplica
 - 💡 Love a good challenge
