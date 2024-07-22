@@ -6,7 +6,7 @@
 
 
 ## My name is Vitor
-JS | PYTHON | SQL 🚀
+JAVA | SQL | POWERBI🚀
 - 👩‍💻 IT assistant at FEMA
 - 🎓 Data Science Student at Descomplica
 - 💡 Love a good challenge
