@@ -23,7 +23,7 @@ JS | PYTHON | SQL 🚀
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Languages</h3>
-    <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
