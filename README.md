@@ -17,12 +17,7 @@ JAVA | SQL | POWERBI🚀
   
  </div>
 
-
-
-## 🔥 Skills
-
-  
-  <!-- Skills: Tools & Frameworks -->
+    <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
     <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
