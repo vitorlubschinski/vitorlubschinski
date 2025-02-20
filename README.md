@@ -3,8 +3,7 @@
 
 ## Hi There! 👋 
  
-- 👩‍💻 IT assistant at FEMA
-- 🎓 Data Science Student at Descomplica
+- 👩‍💻 Software Developer Jr. at ACERTA! Promotora
 - 💡 Love a good challenge
 <div align="left">
 <a href="https://www.linkedin.com/in/vitorgabrielzanini/" target="_blank">
